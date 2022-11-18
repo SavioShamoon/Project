@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CornChips
+comment1.params=
+comment1.target=CornChips()
+comment2.params=
+comment2.target=void\ leaveOut()
+comment3.params=
+comment3.target=void\ putFlavor()
+comment4.params=
+comment4.target=void\ waterChip()
+comment5.params=
+comment5.target=int\ getStaleness()
+comment6.params=
+comment6.target=int\ getNutritionLevel()
+comment7.params=
+comment7.target=int\ getCrunchiness()
+comment8.params=
+comment8.target=int\ getSaltiness()
+comment9.params=
+comment9.target=int\ getFlavor()
+numComments=10
